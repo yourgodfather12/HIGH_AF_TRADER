@@ -10,39 +10,6 @@ A high-frequency trading (HFT) bot that uses real-time market data to execute tr
 - Real and simulated brokers
 - Comprehensive logging and monitoring
 
-## Folder Structure
-
-HFT_Trading_Bot/
-├── src/
-│ ├── init.py
-│ ├── main.py
-│ ├── market_data.py
-│ ├── strategies.py
-│ ├── broker.py
-│ ├── risk_management.py
-│ ├── monitoring.py
-│ └── trading_bot.py
-├── tests/
-│ ├── init.py
-│ ├── test_market_data.py
-│ ├── test_strategies.py
-│ ├── test_broker.py
-│ └── test_risk_management.py
-├── config/
-│ ├── init.py
-│ └── config.json
-├── logs/
-│ └── trading.log
-├── docs/
-│ ├── setup.md
-│ └── usage.md
-├── notebooks/
-│ └── backtest.ipynb
-└── requirements.txt
-
-markdown
-
-
 ## Getting Started
 
 ### Prerequisites
